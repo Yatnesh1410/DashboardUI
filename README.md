@@ -27,4 +27,5 @@ WE CAN ALSO SWITCH BETWEEN LIGHT AND DARK MODE AS WELL AS SELECT COLOR THEME FRO
 
 #### CHARTS SECTION OF WEBSITE
 ![](images/area_chart.png)
+
 ![](images/pie_chart.png)
